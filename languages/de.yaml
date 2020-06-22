@@ -1,0 +1,14 @@
+PLUGIN_ADMIN_ADDON_REVISIONS:
+  REVERT: Wiederherstellen
+  DELETE: Löschen
+  DELETE_ALL: Alle löschen
+  MANAGE_REVISIONS: Revisionen verwalten
+  MANAGE_REVISION: Revision verwalten
+  REVISIONS: Revisionen
+  CURRENT: Aktuell
+  REVISION_DESCRIPTION: 'Zeige alle Änderungen zwischen der Revision <strong>%s</strong> und des aktuellen Inhalts.'
+  ADDED: Hinzugefügt
+  REMOVED: Entfernt
+  RENAMED: Umbenannt
+  CHANGES: Änderungen
+  NO_CHANGES: Keine Änderungen
